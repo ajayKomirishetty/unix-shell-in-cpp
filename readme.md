@@ -1,20 +1,3 @@
-Assignment 2 (CS 464)
-
-Submitted by:
-
-1.Name: Komirishetty Ajay
- Student ID : 002279413
- Email ID: AKOMIRISHETT20@UBishops.ca , komirishettyajay@gmail.com
-
-2.Name: Mantha Soma Sundar Srikar
-  Student ID: 002279323
-  Email ID: SMANTHA20@UBishops.ca , srikarmantha26@gmail.com
-
-
-3.Name - Daksh Mediratta 
-  Student ID: 002279338  
-  Email id : DMEDIRATTA20@UBishops.ca
-
 
 Contents:
 
@@ -178,7 +161,7 @@ o  special cases for input such as empty commands and EOFs.
 
 Question:
 
-1. Test explicitly what happens if you issue ìasynchronousî remote commands (i.e., commands prefixed by & only) in rapid succession (i.e., issue a new command before the completion of the previous oneóyou may want to use copy and paste here to insure the rapid succession).
+1. Test explicitly what happens if you issue ‚Äúasynchronous‚Äù remote commands (i.e., commands prefixed by & only) in rapid succession (i.e., issue a new command before the completion of the previous one‚Äîyou may want to use copy and paste here to insure the rapid succession).
 
 Answer:
 
